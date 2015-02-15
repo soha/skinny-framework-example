@@ -6,4 +6,4 @@ script: "./travis.sh"
 after_success: sbt coveralls
 env:
   global:
-    secure: N/YdFvAhLBBfUgLCh1+Odd6zXVcAdetdggDArj/cQO++ulcseo4H8jsyN93u2fOFyWQadXmcy7pvwKTJmCK5ccoq5cwHSyewaxSmDTPmEDJdP9m8RxnneAZxK/gHSJvMH4LuCFR7MyoAUQYxYzFNE2NWbelN5wj1LsmkWFXmlVs=
+    secure: Ggx8n9iHVHry9wA9FgvJjYR/nGXMgsYrKc0shf7GXlNVdOedWa4luhH5q4wPa7C1q4IzJNuWatnBJyMT2rZ48uI8WXmlnyO866hdN1CAx9MWtI47cNOw8BZXWifry+LpSmizX9kyZtJ0u/MwmXvTpCLJ43sAx9vRo2QXxGUA/vo=
